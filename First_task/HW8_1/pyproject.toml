@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "HW8_1"
+version = "1.0"
+description = "MongoDB"
+authors = ["UstymenkoOB <50136631+UstymenkoOB@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
